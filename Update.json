@@ -1,1 +1,29 @@
 
+{
+// 
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/waipainghtoo/UZIN/raw/main/dtacfree03.ovpn.zip" ,
+"Changelog":"
+Internet free 3 file
+
+
+အသုံးပြုနိုင်သောဆင်းကဒ်
+Dtac Sim
+True Move Sim 
+
+Server by 🇲🇲G-WiFi🇲🇲
+",
+
+
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
